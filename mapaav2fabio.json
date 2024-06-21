@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset version="1.10" tiledversion="git" name="mapaav2fabio" tilewidth="32" tileheight="32" tilecount="5760" columns="80">
+ <image source="mapaav2fabio.png" width="2560" height="2304"/>
+</tileset>
